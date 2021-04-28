@@ -1,3 +1,5 @@
+Project done for Financial Analytics - Real time stock market price prediction using sentiment analysis
+
 For Folder: For User (PFE)
 
 Please run the files according to the procedure.
